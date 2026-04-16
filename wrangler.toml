@@ -1,5 +1,3 @@
 name = "ex-invo"
 compatibility_date = "2026-04-16"
-
-[assets]
-directory = "inv"
+pages_build_output_dir = "inv"
